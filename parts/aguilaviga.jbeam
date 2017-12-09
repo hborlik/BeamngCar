@@ -1,0 +1,20 @@
+{
+"augilaviga": {
+    "information":{
+        "authors":"",
+        "name":"Augila Viga",
+    }
+    "slotType" : "main",
+    "slots": [
+        ["type", "default", "description"]
+        ["aguilaviga_chassis","aguilaviga_chassis", "Chassis",{"coreSlot":true}],
+    ],
+
+     "scaledragCoef":1.0,
+
+    "controller": [
+        ["fileName"],
+        ["vehicleController", {}],
+    ],
+},
+}
